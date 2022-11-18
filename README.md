@@ -1,9 +1,9 @@
 # Tarea Reina Ajedrez
-## Profesor: José Ramón Jiménez Reyes
+## Profesor: Andrés Rubio del Río
 ## Alumno: Oussama Atifi
 
 La tarea va a consistir en modelar el movimiento de una reina de ajedrez por el tablero de dicho juego.
-Ilustración que muestra la posición inicial de las reinasIlustración que muestra el movimiento de la reina en el tablero del ajedrez
+Ilustración que muestra la posición inicial de las reinasIlustración que muestra el movimiento de la reina en el tablero del ajedrez  
 
 <div align="center">
 <p>
