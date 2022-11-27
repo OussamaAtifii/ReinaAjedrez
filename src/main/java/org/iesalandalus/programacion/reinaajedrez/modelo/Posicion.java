@@ -23,8 +23,10 @@ public class Posicion {
 	private void setFila(int fila) {
 		if (fila < 1 || fila > 8) {
 			throw new IllegalArgumentException("ERROR: Fila no válida.");
+		} else {
+			this.fila = fila;
 		}
-		this.fila = fila;
+		
 	}
 	
 	public int getFila() {
